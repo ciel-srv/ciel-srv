@@ -1,6 +1,6 @@
 ### Initial Developer Setup
-- [v] install package manager
-- [v] install gh
+- [x] install package manager
+- [x] install gh
 - [ ] setup neovim
 - [ ] setup environment
 - [ ] setup development workflow
